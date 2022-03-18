@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/césar-peón-lamparero/">
   	<img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
-  <a href="">
+  <a href="https://github.com/cpl121/cpl121/blob/main/Cesar_CV.pdf">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/parse-from-clipboard.png"/>
   </a>
    <a href="mailto:cpldev121@gmail.com">
