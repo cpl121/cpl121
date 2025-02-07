@@ -1,7 +1,7 @@
-<h3 align="center">Hi there! I'm César <img src="https://github.com/cpl121/cpl121/blob/main/waving_hand.gif" width="40px"></h3>
+<h3 align="center">Hi there! I'm CPL121 <img src="https://github.com/cpl121/cpl121/blob/main/waving_hand.gif" width="40px"></h3>
 
 ## 💫 About Me:
-🔭 I'm currently working on Boxfish Studio<br>🌱 I'm currently learning Web3 technologies<br>💻 Web3 | PWA | TDD<br>🌐 <a href="https://cpl121.eth.limo/" target="_blank" rel="noopener noreferrer">cpl121.eth</a>
+🔭 I'm currently working on Boxfish Studio<br>🌱 I'm currently learning Web3 and XR technologies<br>💻 Web3 | XR <br>🌐 <a href="https://cpl121.eth.limo/" target="_blank" rel="noopener noreferrer">cpl121.eth</a>
 
 ### ⚡ Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
