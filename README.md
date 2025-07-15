@@ -9,11 +9,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=4CFFC1&center=true&vCenter=true&width=435&lines=Full-Stack+Web3XR+Developer;Web3+%7C+Blockchain%7C+Ethereum++%7C+IOTA;WebXR+%7C+Three.js+%7C+WebGL+%7C+Shaders;Next.js+%7C+Svelte+%7C+Node.js+%7C+Astro" alt="Typing SVG" />
 </p>
 
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cpl121/cpl121/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cpl121/cpl121/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cpl121/cpl121/output/github-contribution-grid-snake.svg">
-</picture> -->
+</picture>
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cpl121&theme=gotham&hide_border=false" />
